@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DislayTable"
+    }
+  },
+  "defaultProject": "DislayTable",
+  "cli": {
+    "analytics": false
+  }
 }
